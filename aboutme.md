@@ -1,7 +1,9 @@
-layout: page
-title: About Me
-subtitle: Unity Developer
 
+---
+layout: page
+title: About me
+subtitle: Unity Developer
+---
 Hi, I'm Nguyen Tran Quoc, a passionate Unity Developer. Here's a quick snapshot of who I am:
 
 Skilled in Unity – I create immersive games and interactive experiences with Unity.
