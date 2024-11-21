@@ -52,11 +52,11 @@ round-avatar: true
 social-network-links:
   email: "quoc.nguyentran.dev@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/ntq1610/
-  github: https://github.com/Quoc1610
+  facebook: ntq1610
+  github: Quoc1610
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: https://www.linkedin.com/in/tqdev/
+  linkedin: tqdev
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -81,7 +81,7 @@ telephone: 0362785219
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -96,7 +96,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
