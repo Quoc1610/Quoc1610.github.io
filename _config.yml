@@ -21,9 +21,9 @@ author: Nguyen Tran Quoc
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Projects:
+    - Horde Survival: "https://github.com/Pandora241202/GihotIntern"
+    - AR CARD GAME: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 ################
